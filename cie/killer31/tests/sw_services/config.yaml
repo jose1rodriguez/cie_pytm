@@ -1,0 +1,3 @@
+resources:
+  - alias: lan_dev
+    type: demo
